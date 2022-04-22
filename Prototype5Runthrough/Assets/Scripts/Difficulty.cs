@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Noah Trillizio)
+ * (Assignment 8)
+ * (Sets the difficulty for the game)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

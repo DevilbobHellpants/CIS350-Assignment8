@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Noah Trillizio)
+ * (Assignment 8)
+ * (Holds and displays all the data)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
@@ -77,6 +82,5 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
     }
 }

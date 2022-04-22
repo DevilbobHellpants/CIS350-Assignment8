@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Noah Trillizio)
+ * (Assignment 8)
+ * (controls the spawning location and the interactability of the food/skull objects)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
